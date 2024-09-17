@@ -2,6 +2,8 @@
 
 <!--
 **thukralakshit/thukralakshit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
 👋 Hi, I'm Akshit<br>
 👨‍💻 I am interested in Software Development and Cloud Computing<br>
 🌱 I’m currently learning Software Development and Network Engineering at Sheridan College<br>
