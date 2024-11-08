@@ -7,7 +7,7 @@
 👋 Hi, I'm Akshit<br>
 👨‍💻 I am interested in Software Development and Cloud Computing<br>
 🌱 I’m currently learning Software Development and Network Engineering at Sheridan College<br>
-📫 How to reach me <a href = "rahulchowdhary529@gmail.com">thukralakshit64@gmail.com</a>
+📫 How to reach me <a href = "thukralakshit64@gmail.com">thukralakshit64@gmail.com</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
